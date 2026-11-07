@@ -1,0 +1,10 @@
+SONS — player de música offline (PWA)
+
+1. Envie TODOS os arquivos desta pasta, juntos, para uma hospedagem com HTTPS
+   (ex.: GitHub Pages, Netlify, Cloudflare Pages ou outra de sua preferência).
+2. Abra o endereço uma vez com internet. O app guarda a si mesmo e passa a abrir sem conexão.
+3. Instale: Android/Chrome: menu ⋮ → Instalar app (ou Ajustes → Aplicativo → Instalar).
+   iPhone/Safari: Compartilhar → Adicionar à Tela de Início.
+
+Sua biblioteca, playlists e preferências ficam salvas no aparelho.
+Ao publicar uma nova versão, troque V='sons-v1' em sw.js (ex.: 'sons-v2') para forçar a atualização.
